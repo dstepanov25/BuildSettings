@@ -1,0 +1,8 @@
+﻿As MetraNet developer I want have a tool that helps me to set flexible settings to build MetraNet.
+
+I need next settings:
+
+- revert changes or not;
+- clean repository or not;
+- pull changes or not;
+- 
